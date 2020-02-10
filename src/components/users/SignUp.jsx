@@ -61,6 +61,7 @@ export class UnconnectedSignUp extends Component {
                   icon="lock"
                   iconPosition="left"
                   placeholder="password"
+                  type="password"
                   onChange={this.handleChange("password")}
                 />
                 <Form.Button fluid type="submit" primary>

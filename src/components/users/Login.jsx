@@ -59,6 +59,7 @@ export class UnconnectedLogin extends Component {
             iconPosition="left"
             placeholder="password"
             onChange={this.handleChange("password")}
+            type="password"
           />
           <Form.Button type="submit" primary style={{ width: 100 }}>
             Login
