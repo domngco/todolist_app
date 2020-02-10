@@ -18,7 +18,7 @@ The UI allows the user to sort the list of tasks by priority.
 
 First, you will have to run `npm install` via your terminal
 
-To start the server, run `nodemon server.js`
+To start the server, run `nodemon server.js` or `node server.js`
 
 Second, you will need to copy & paste the following into your browser of choice `http://localhost:4000/` (preferably Google Chrome)
 
